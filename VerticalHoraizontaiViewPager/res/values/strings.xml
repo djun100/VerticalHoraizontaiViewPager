@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">北京觉是</string>
+    <string name="menu_settings">北京觉是</string>
+    <string name="about">About</string>
+    <string name="products">Products</string>
+    <string name="shop">Shop</string>
+    <string name="title">gridGalleryDemo</string>
+
+</resources>
